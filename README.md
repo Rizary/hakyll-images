@@ -57,7 +57,7 @@ If you would like a feature added, consider creating [an issue on Github](https:
 
 ### From Hackage
 
-`hakyll-images` is available on [Hackage](https://hackage.haskell.org). Using the [`cabal-install`](https://www.haskell.org/cabal/) tool:
+`hakyll-images` is available on [Hackage](https://http://hackage.haskell.org/package/hakyll-images). Using the [`cabal-install`](https://www.haskell.org/cabal/) tool:
 
 ```bash
 cabal update
